@@ -1,4 +1,4 @@
-# Ravi Bhaskar Reddy — Professional Profile
+# Ravi Bhaskar Reddy — One Slide Profile
 
 Senior .NET Full Stack Developer with nearly 5 years of experience building 
 enterprise applications across insurance and telecommunications.
